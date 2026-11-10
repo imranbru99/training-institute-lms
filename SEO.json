@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "training-institute-lms",
+  "description": "Training Institute LMS — Education Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Training institute LMS for courses, enrollments, live classes, assessments, and certificates. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "education",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/training-institute-lms"
+}
